@@ -30,8 +30,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the text “Hello World”.
-Developed by: Dinesh Kumar B
-Registeration Number : 212222040038
+Developed by: Aaron Dominic
+Registeration Number : 212221040001
 */
 ```
 
